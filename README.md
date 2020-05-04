@@ -7,4 +7,5 @@
 
 ### Пример вывода программы:
 Входные данные: "hi ab hezz hello hello hi hi hi ab hello"
+
 ![IMG](example.png)
